@@ -6,7 +6,7 @@ Původní Script: https://github.com/pedr0fontoura/fivem-appearance
 
 ESX Verze: https://github.com/ZiggyJoJo/brp-fivem-appearance
 
-Moja QB-Core Anglická Verzia: https://github.com/IamPerek/prk-fivem-appearance-en
+Moje QB-Core Anglická Verze: https://github.com/IamPerek/prk-fivem-appearance-en
 
 # Požadavky #
 
