@@ -1,0 +1,127 @@
+{
+  "modal": {
+    "save": {
+      "title": "Uložit přizpůsobení",
+      "description": ""
+    },
+    "exit": {
+      "title": "Ukončete přizpůsobení",
+      "description": "Žádné změny nebudou uloženy"
+    },
+    "accept": "Ano",
+    "decline": "Ne"
+  },
+  "ped": {
+    "title": "Ped",
+    "model": "Model"
+  },
+  "headBlend": {
+    "title": "Dědictví",
+    "shape": {
+      "title": "Tvář",
+      "firstOption": "Otec",
+      "secondOption": "Matka",
+      "mix": "Mix"
+    },
+    "skin": {
+      "title": "Kůže",
+      "firstOption": "Otec",
+      "secondOption": "Matka",
+      "mix": "Mix"
+    }
+  },
+  "faceFeatures": {
+    "title": "Funkce obličeje",
+    "nose": {
+      "title": "Nos",
+      "width": "Šířka",
+      "height": "Výška",
+      "size": "Velikost",
+      "boneHeight": "Výška kostí",
+      "boneTwist": "Zkroucení kostí",
+      "peakHeight": "Výška vrcholu"
+    },
+    "eyebrows": {
+      "title": "Obočí",
+      "height": "Výška",
+      "depth": "Hloubka"
+    },
+    "cheeks": {
+      "title": "Líce",
+      "boneHeight": "Výška kostí",
+      "boneWidth": "Šířka kostí",
+      "width": "Šířka"
+    },
+    "eyesAndMouth": {
+      "title": "Oči a ústa",
+      "eyesOpening": "Otevření očí",
+      "lipsThickness": "Tloušťka rtu"
+    },
+    "jaw": {
+      "title": "Čelist",
+      "width": "Šířka",
+      "size": "Velikost"
+    },
+    "chin": {
+      "title": "Brada",
+      "lowering": "Snížení",
+      "length": "Délka",
+      "size": "Velikost",
+      "hole": "Velikost otvoru"
+    },
+    "neck": {
+      "title": "Krk",
+      "thickness": "Tloušťka"
+    }
+  },
+  "headOverlays": {
+    "title": "Vzhled",
+    "hair": {
+      "title": "Vlasy",
+      "style": "Styl",
+      "color": "Barva",
+      "highlight": "Zvýraznění"
+    },
+    "opacity": "Neprůhlednost",
+    "style": "Styl",
+    "color": "Barva",
+    "blemishes": "Skvrny",
+    "beard": "Vousy",
+    "eyebrows": "Obočí",
+    "ageing": "Stárnutí",
+    "makeUp": "Make up",
+    "blush": "Načervenání tváře",
+    "complexion": "Pihy",
+    "sunDamage": "Jizvy",
+    "lipstick": "Rtěnka",
+    "moleAndFreckles": "Bradavice",
+    "chestHair": "Chlupy na hrudi",
+    "bodyBlemishes": "Vady těla",
+    "eyeColor": "Barva očí"
+  },
+  "components": {
+    "title": "Oblečení",
+    "drawable": "Typ",
+    "texture": "Barva",
+    "mask": "Maska",
+    "upperBody": "Ruce",
+    "lowerBody": "Kalhoty",
+    "bags": "Batohy",
+    "shoes": "Boty",
+    "scarfAndChains": "Doplňky na krk",
+    "shirt": "Tričko",
+    "bodyArmor": "Vesta",
+    "decals": "Nášivky",
+    "jackets": "Bunda"
+  },
+  "props": {
+    "title": "Doplňky",
+    "drawable": "Typ",
+    "texture": "Barva",
+    "hats": "Klobouky a helmy",
+    "glasses": "Brýle",
+    "ear": "Naušnice",
+    "watches": "Hodinky",
+    "bracelets": "Náramky"
+  }
+}
