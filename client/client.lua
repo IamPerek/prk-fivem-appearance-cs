@@ -527,7 +527,7 @@ end)
 
 -- Testing Command
 
-RegisterCommand('clothingmenu', function()
+--[[RegisterCommand('clothingmenu', function()
 	local config = {
 		ped = true,
 		headBlend = true,
@@ -548,4 +548,4 @@ RegisterCommand('clothingmenu', function()
 			TriggerServerEvent('Select:Tattoos')
 		end
 	end, config)
-end, false)
+end, false)--]]
