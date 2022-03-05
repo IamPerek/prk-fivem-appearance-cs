@@ -1,6 +1,7 @@
 # Perek • https://linktr.ee/IamPerek #
 
 # prk-fivem-appearance #
+# Ve složce 'screenshots' můžete vidět obrázky tak, jak to vypadá ve hře #
 
 Původní Script: https://github.com/pedr0fontoura/fivem-appearance
 
